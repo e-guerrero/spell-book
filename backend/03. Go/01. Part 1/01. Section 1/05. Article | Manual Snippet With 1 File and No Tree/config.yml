@@ -1,0 +1,9 @@
+# If there is a snippet, all defaults will be deactivated.
+# If a path is provided with no line numbers then display all code.
+
+snippets:
+  - header: Hello master. Here is your snippet. Remember to modify this in the future for testing. Do the same for all the other article folders.
+    path: /index.html
+    lines:
+      - 10-14
+      - 16-21
