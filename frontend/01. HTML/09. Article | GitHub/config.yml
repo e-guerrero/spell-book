@@ -1,4 +1,4 @@
 # Adding Github will prevent any code from being shown and instead only provide a github link to the code. Any snippets will be ignored.
 
 icons:
-  github:
+  github: null
