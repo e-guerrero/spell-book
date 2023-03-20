@@ -1,8 +1,8 @@
 # If there is a snippet, all defaults will be deactivated.
 # If a path is provided with no line numbers then display all code.
 icons:
-  youtube: youtube.com
-  blogger: blogger.com
+  youtube: https://www.youtube.com
+  blogger: https://www.blogger.com
 snippets:
   - header: Hello master. Here are your snippets...
   # The file.
