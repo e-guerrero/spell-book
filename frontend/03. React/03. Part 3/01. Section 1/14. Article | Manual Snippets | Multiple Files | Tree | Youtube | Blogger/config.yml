@@ -1,0 +1,25 @@
+# If there is a snippet, all defaults will be deactivated.
+# If a path is provided with no line numbers then display all code.
+icons:
+  youtube: https://www.youtube.com
+  blogger: https://www.blogger.com
+snippets:
+  - header: Hello master. Here are your snippets...
+  # The file.
+  - header: The File
+    path: /index.html
+  # The file and selected lines.
+  - header: The File & Selected Lines
+    path: /index.html
+    lines:
+      - 9-15
+  # The 2nd file and selected lines.
+  - header: The 2nd File & Selected Lines
+    path: /styles.css
+    lines:
+      - 10-14
+  # The tree and selected lines.
+  - header: The Tree & Selected Lines
+    path: /assets/css/styles.css
+    lines:
+      - 50-60
