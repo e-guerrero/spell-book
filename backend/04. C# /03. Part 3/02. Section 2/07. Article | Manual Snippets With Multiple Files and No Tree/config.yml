@@ -1,0 +1,14 @@
+# If there is a snippet, all defaults will be deactivated.
+# If a path is provided with no line numbers then display all code.
+
+snippets:
+  - header:
+    path: /index.html
+    lines:
+      - 9-14
+      - 16-21
+  - header: hello sir
+    path: /styles.css
+    lines:
+      - 21-30
+      - 50-60
